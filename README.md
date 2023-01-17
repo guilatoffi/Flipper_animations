@@ -21,8 +21,15 @@ https://user-images.githubusercontent.com/98189594/212782040-3292b873-b8ee-4ee8-
 a cool shark animation
 https://user-images.githubusercontent.com/98189594/212782046-2991b999-14a1-47f2-aede-6531b277444f.mp4
 
-Instructions: download the zip files and decompress them put them in your flipper zero in sdcard:\dolphin
-download the manifest.txt in sdcard:\dolphin and the manifest.txt of myself and copy all exept:
-"Filetype: Flipper Animation Manifest Version: 1"
-and paste it at the end of the original file, save
-delete the file in your flipper zero and replace it with the new one
+Instructions:
+
+Download the zip files and extract them.
+Insert your SD card into your Flipper Zero device.
+Open Qflipper A and connect your Flipper Zero to your computer.
+Navigate to the "dolphin" folder on your SD card.
+Download the "manifest.txt" file.
+Open the "manifest.txt" file you just downloaded and copy all of its contents, except for the line "Filetype: Flipper Animation Manifest Version: 1".
+Download and open the original "manifest.txt" file in the "dolphin" folder on your SD card and paste the copied contents at the end of it.
+Save the modified "manifest.txt" file.
+Delete the original "manifest.txt" file from the "dolphin" folder on your SD card.
+Replace it with the new, modified "manifest.txt" file.
