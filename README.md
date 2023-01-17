@@ -23,13 +23,23 @@ https://user-images.githubusercontent.com/98189594/212782046-2991b999-14a1-47f2-
 
 Instructions:
 
-Download the zip files and extract them.
-Insert your SD card into your Flipper Zero device.
-Open Qflipper A and connect your Flipper Zero to your computer.
-Navigate to the "dolphin" folder on your SD card.
-Download the "manifest.txt" file.
-Open the "manifest.txt" file you just downloaded and copy all of its contents, except for the line "Filetype: Flipper Animation Manifest Version: 1".
-Download and open the original "manifest.txt" file in the "dolphin" folder on your SD card and paste the copied contents at the end of it.
-Save the modified "manifest.txt" file.
-Delete the original "manifest.txt" file from the "dolphin" folder on your SD card.
-Replace it with the new, modified "manifest.txt" file.
+1.Download the zip files and extract them.
+
+2.Insert your SD card into your Flipper Zero device.
+
+3.Open Qflipper A and connect your Flipper Zero to your computer.
+
+4.Navigate to the "dolphin" folder on your SD card.
+
+5.Download the "manifest.txt" file.
+
+6.Open the "manifest.txt" file you just downloaded and copy all of its contents, except for the line "Filetype: Flipper Animation Manifest Version: 1".
+
+7.Download and open the original "manifest.txt" file in the "dolphin" folder on your SD card and paste the copied contents at the end of it.
+
+8.Save the modified "manifest.txt" file.
+
+9.Delete the original "manifest.txt" file from the "dolphin" folder on your SD card.
+
+10.Replace it with the new, modified "manifest.txt" file.
+
