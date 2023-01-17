@@ -21,3 +21,8 @@ https://user-images.githubusercontent.com/98189594/212782040-3292b873-b8ee-4ee8-
 a cool shark animation
 https://user-images.githubusercontent.com/98189594/212782046-2991b999-14a1-47f2-aede-6531b277444f.mp4
 
+Instructions: download the zip files and decompress them put them in your flipper zero in sdcard:\dolphin
+download the manifest.txt in sdcard:\dolphin and the manifest.txt of myself and copy all exept:
+"Filetype: Flipper Animation Manifest Version: 1"
+and paste it at the end of the original file, save
+delete the file in your flipper zero and replace it with the new one
