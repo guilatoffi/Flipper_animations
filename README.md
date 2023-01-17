@@ -3,7 +3,10 @@ Animations for Flipper Zero by guilatoffi
 
 
 Couteau(1) a nice blade animation
-https://user-images.githubusercontent.com/98189594/212782023-6383d935-896d-4c5c-ad4c-3738707e8ac9.mp4
+<video src="https://user-images.githubusercontent.com/98189594/212782023-6383d935-896d-4c5c-ad4c-3738707e8ac9.mp4" controls>
+  Your browser does not support the video tag.
+</video>
+
 
 
 couteau(2) butterfly knife opening
