@@ -10,19 +10,35 @@ Couteau(1) a nice blade animation
 
 
 couteau(2) butterfly knife opening
-https://user-images.githubusercontent.com/98189594/212782030-3e0bb92f-f589-47c6-a0ce-4cafcd60bc94.mp4
+
+<video src="https://user-images.githubusercontent.com/98189594/212782030-3e0bb92f-f589-47c6-a0ce-4cafcd60bc94.mp4" controls>
+  Your browser does not support the video tag.
+</video>
+
 
 
 Delorean 
-https://user-images.githubusercontent.com/98189594/212782035-81ec1723-43c1-4496-9afa-60c216724d05.mp4
+
+
+<video src="https://user-images.githubusercontent.com/98189594/212782035-81ec1723-43c1-4496-9afa-60c216724d05.mp4" controls>
+  Your browser does not support the video tag.
+</video>
+
 
 
 pacman animation
-https://user-images.githubusercontent.com/98189594/212782040-3292b873-b8ee-4ee8-a102-599fd00a7a9b.mp4
+
+<video src="https://user-images.githubusercontent.com/98189594/212782040-3292b873-b8ee-4ee8-a102-599fd00a7a9b.mp4" controls>
+  Your browser does not support the video tag.
+</video>
 
 
 a cool shark animation
-https://user-images.githubusercontent.com/98189594/212782046-2991b999-14a1-47f2-aede-6531b277444f.mp4
+
+<video src="https://user-images.githubusercontent.com/98189594/212782046-2991b999-14a1-47f2-aede-6531b277444f.mp4" controls>
+  Your browser does not support the video tag.
+</video>
+
 
 Instructions:
 
