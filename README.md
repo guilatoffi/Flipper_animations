@@ -46,6 +46,12 @@ gun (a gun in vest animation)
 
 
 
+gunlong (a longer version of guy pulling gun out of his vest)
+<video src="https://user-images.githubusercontent.com/98189594/213741207-ddbfc0ae-501c-48f1-b04e-2074bec4c517.mp4" controls>
+  Your browser does not support the video tag.
+</video>
+
+
 
 
 
