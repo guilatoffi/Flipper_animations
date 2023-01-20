@@ -40,7 +40,7 @@ a cool shark animation
 </video>
 
 gun (a gun in vest animation)
-<video src="" controls>
+<video src="https://user-images.githubusercontent.com/98189594/213606009-24d6d33e-0c4d-4657-a0dc-b65a74ffa0e2.mp4" controls>
   Your browser does not support the video tag.
 </video>
 
