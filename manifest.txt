@@ -35,3 +35,10 @@ Max butthurt: 10
 Min level: 1
 Max level: 30
 Weight: 8
+
+Name: gun
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 30
+Weight: 8
