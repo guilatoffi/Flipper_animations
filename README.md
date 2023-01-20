@@ -39,14 +39,14 @@ a cool shark animation
   Your browser does not support the video tag.
 </video>
 
-gun (a gun in vest animation)
+gun (a gun in vest animation).                                   (credit to mattis dovier)
 <video src="https://user-images.githubusercontent.com/98189594/213606009-24d6d33e-0c4d-4657-a0dc-b65a74ffa0e2.mp4" controls>
   Your browser does not support the video tag.
 </video>
 
 
 
-gunlong (a longer version of guy pulling gun out of his vest)
+gunlong (a longer version of guy pulling gun out of his vest).  (credit to mattis dovier)
 <video src="https://user-images.githubusercontent.com/98189594/213741207-ddbfc0ae-501c-48f1-b04e-2074bec4c517.mp4" controls>
   Your browser does not support the video tag.
 </video>
