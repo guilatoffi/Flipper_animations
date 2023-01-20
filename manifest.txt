@@ -42,3 +42,45 @@ Max butthurt: 10
 Min level: 1
 Max level: 30
 Weight: 8
+
+Name: gunlong
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: car
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: music
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: housefire
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: streetclouds
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: mickey
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 30
+Weight: 8
