@@ -39,6 +39,15 @@ a cool shark animation
   Your browser does not support the video tag.
 </video>
 
+gun (a gun in vest animation)
+<video src="https://user-images.githubusercontent.com/98189594/212782046-2991b999-14a1-47f2-aede-6531b277444f.mp4" controls>
+  Your browser does not support the video tag.
+</video>
+
+
+
+
+
 
 Instructions:
 
